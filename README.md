@@ -1,4 +1,9 @@
 ## Hi there 👋
+Meu nome é  Julio Cesar 
+Sou professor de Tecnologia
+Estou me desenvolvendo na linguagem JavaScript
+Utilizo esse espaço para minha organização e compartilhamento dos meu projetos desenvolvidos
+![](https://img.freepik.com/vetores-premium/professor-de-ciencias-na-sala-de-aula_245150-128.jpg)
 
 <!--
 **julioduttra/julioduttra** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
